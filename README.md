@@ -1,1 +1,1 @@
-### Michael Chadwick's GitHub Homepage
+# Michael Chadwick's GitHub Homepage
