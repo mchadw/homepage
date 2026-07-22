@@ -1,2 +1,2 @@
 # home
-Michael Chadwick's Github Homepage
+Michael Chadwick's GitHub Homepage
